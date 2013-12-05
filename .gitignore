@@ -1,0 +1,10 @@
+*.dcu
+*.cfg
+*.dll
+*.dof
+*.ini
+*.mes
+*.drc
+*.map
+*.exe
+*.ddp
